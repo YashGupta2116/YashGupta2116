@@ -1,4 +1,3 @@
-![Shooting Stars](https://raw.githubusercontent.com/YashGupta2116/assets/main/shooting-stars.svg)
 <!-- Banner with subtle animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9AE1FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;MERN+%2B+Next.js+%2B+TypeScript;Building+scalable+and+modern+apps+🚀" alt="Typing SVG" />
