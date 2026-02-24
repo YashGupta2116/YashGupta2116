@@ -58,7 +58,7 @@ I love building sleek, performant apps with clean design and robust backend syst
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/>
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://yash-gupta-one.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:your-email@example.com">
