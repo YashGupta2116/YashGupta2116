@@ -46,8 +46,9 @@ I love building sleek, performant apps with clean design and robust backend syst
 ---
 
 ### 📌 Featured Projects  
+- [**Archive AI**](https://github.com/YashGupta2116/archive-ai) - Turn Any URL Into Clean Markdown.
+- [**Prepster**](https://github.com/YashGupta2116/Prepster) - Prepster is an AI mock interview app that simulates real interview experiences.
 - [**VaultX**](https://github.com/YashGupta2116/VaultX) – Secure file manager with authentication  
-- [**Expense Tracker**](https://github.com/YashGupta2116) – MERN-based personal finance tracker  
 - More on my [GitHub Repos →](https://github.com/YashGupta2116?tab=repositories)  
 
 ---
