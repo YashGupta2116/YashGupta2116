@@ -1,75 +1,58 @@
-<!-- Banner with subtle animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9AE1FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;MERN+%2B+Next.js+%2B+TypeScript;Building+scalable+and+modern+apps+🚀" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1800&color=9AE1FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+modern+web+%26+backend+systems;TypeScript+%7C+Go+%7C+Next.js" alt="Typing SVG" />
+
+<br>
+
+[Portfolio](https://codewithyash.dev)  · 
+[LinkedIn](https://www.linkedin.com/in/your-profile)  · 
+[GitHub](https://github.com/YashGupta2116)
+
+</div>
+
+<br>
+
+## Yash Gupta
+
+Full-Stack Developer focused on **TypeScript, Next.js, React, and Go**.
+I build modern web applications, scalable APIs, and backend systems with an emphasis on clean architecture and performance.
+
+---
+
+### Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,go,react,nextjs,tailwind,nodejs,express&theme=dark" height="42"/>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,docker,aws,linux,nginx&theme=dark" height="42"/>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,bash&theme=dark" height="42"/>
 </p>
 
-# Hi, I'm Yash 👋  
+---
 
-I’m a **Full-Stack Developer** specializing in **Next.js**, **TypeScript**, and the **MERN stack**.  
-I love building sleek, performant apps with clean design and robust backend systems.  
+### Selected Work
+
+| Project                                                       | Description                           |
+| ------------------------------------------------------------- | ------------------------------------- |
+| **[Archive AI](https://github.com/YashGupta2116/archive-ai)** | URL → clean Markdown for AI workflows |
+| **[Prepster](https://github.com/YashGupta2116/Prepster)**     | AI-powered mock interview platform    |
+| **[VaultX](https://github.com/YashGupta2116/VaultX)**         | Secure file management system         |
+
+[View all repositories →](https://github.com/YashGupta2116?tab=repositories)
 
 ---
 
-### ✨ About Me  
-- 🚀 Full-stack projects with **Next.js + React + TypeScript**  
-- 🗄️ Experienced with **PostgreSQL (SQL)** & **MongoDB (NoSQL)**  
-- 🔧 Skilled in **Node.js & Express** for scalable APIs  
-- 🌌 Exploring **System Design** & **AI-powered applications**  
+### Currently Exploring
 
----
+`System Design` · `Distributed Systems` · `Backend Architecture` · `AI`
 
-### ⚡ Tech Stack  
+<br>
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="45"/>
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="45"/>
-  
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="45"/>
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="45"/>
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="TailwindCSS" width="45"/>
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="45"/>
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" width="45"/>
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="45"/>
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="45"/>
-  
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="45"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="45"/>
-</p>  
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/YashGupta2116)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square\&logo=vercel\&logoColor=white)](https://codewithyash.dev)
 
-### 📌 Featured Projects  
-- [**Archive AI**](https://github.com/YashGupta2116/archive-ai) - Turn Any URL Into Clean Markdown.
-- [**Prepster**](https://github.com/YashGupta2116/Prepster) - Prepster is an AI mock interview app that simulates real interview experiences.
-- [**VaultX**](https://github.com/YashGupta2116/VaultX) – Secure file manager with authentication  
-- More on my [GitHub Repos →](https://github.com/YashGupta2116?tab=repositories)  
-
----
-
-### 📫 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/>
-  </a>
-  <a href="https://yash-gupta-one.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40"/>
-  </a>
-</p>  
-
----
-
-<p align="center">
-  <img src="https://github.com/auroral-ui/auroral-ui/blob/main/assets/line-sparkle.gif?raw=true" alt="sparkles line" width="70%"/>
-</p>
-
-⭐️ From [YashGupta2116](https://github.com/YashGupta2116)
+</div>
