@@ -21,13 +21,45 @@ I build modern web applications, scalable APIs, and backend systems with an emph
 
 ### Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,react,nextjs,tailwind,nodejs,express&theme=dark" height="42"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,docker,aws,linux,nginx&theme=dark" height="42"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,bash&theme=dark" height="42"/>
-</p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)
+
+**Frontend**
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss&logoColor=06B6D4)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=5FA04E)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=DC382D)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
+
+**DevOps / Cloud**
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=009639)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions&logoColor=2088FF)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
 
 ---
 
